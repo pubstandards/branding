@@ -1,4 +1,4 @@
-![Pub Standards](http://pubstandards.github.io/images/readme-logo.png)
+![Pub Standards](http://pubstandards.github.io/images/readme-logo.jpg)
 
 # Pub Standards Branding
 
